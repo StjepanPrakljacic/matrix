@@ -58,7 +58,7 @@ int clearMatrix(MATRIX* matrixInstance);
 
 /*
 *Function deleteMatrix()
-* Description: The function will dealocate memory for the passed instance of the matrix
+* Description: The function will deallocate memory for the passed instance of the matrix
 * @param - matrix instance that can not be NULL
 * Returns: Succes state
 */
